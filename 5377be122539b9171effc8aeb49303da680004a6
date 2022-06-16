@@ -18,6 +18,40 @@
       "serverId": "83dc9601-fb49-4f13-8ae8-983609c57c4f"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "97ee282d_9a48cc4b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2022-06-16T22:49:16Z",
+      "side": 1,
+      "message": "Who am I replying to?",
+      "revId": "5377be122539b9171effc8aeb49303da680004a6",
+      "serverId": "83dc9601-fb49-4f13-8ae8-983609c57c4f"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b501dbf0_1f288d08",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2022-06-16T22:49:16Z",
+      "side": 1,
+      "message": "Need more comments",
+      "revId": "5377be122539b9171effc8aeb49303da680004a6",
+      "serverId": "83dc9601-fb49-4f13-8ae8-983609c57c4f"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "fb0ffe35_ecab3c5c",
